@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/procura-imagens/static/css/main.a45e65a8.chunk.css",
+    "main.js": "/procura-imagens/static/js/main.a5d1aad9.chunk.js",
+    "main.js.map": "/procura-imagens/static/js/main.a5d1aad9.chunk.js.map",
+    "runtime-main.js": "/procura-imagens/static/js/runtime-main.4e9fc5bf.js",
+    "runtime-main.js.map": "/procura-imagens/static/js/runtime-main.4e9fc5bf.js.map",
+    "static/js/2.3f040f9e.chunk.js": "/procura-imagens/static/js/2.3f040f9e.chunk.js",
+    "static/js/2.3f040f9e.chunk.js.map": "/procura-imagens/static/js/2.3f040f9e.chunk.js.map",
+    "index.html": "/procura-imagens/index.html",
+    "precache-manifest.f94b86c50dfce253a1235700933dd4bd.js": "/procura-imagens/precache-manifest.f94b86c50dfce253a1235700933dd4bd.js",
+    "service-worker.js": "/procura-imagens/service-worker.js",
+    "static/css/main.a45e65a8.chunk.css.map": "/procura-imagens/static/css/main.a45e65a8.chunk.css.map",
+    "static/js/2.3f040f9e.chunk.js.LICENSE.txt": "/procura-imagens/static/js/2.3f040f9e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e9fc5bf.js",
+    "static/js/2.3f040f9e.chunk.js",
+    "static/css/main.a45e65a8.chunk.css",
+    "static/js/main.a5d1aad9.chunk.js"
+  ]
+}
